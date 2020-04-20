@@ -57,9 +57,9 @@ social:
   link: https://github.com/mafayto
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am interested in gender, health, work, time use, and development. My research focuses mainly on how different gender norms across contexts affect the way women's bargaining power influences different dimensions of wellbeing: health, income, employment, time use, etc. My work is situated geographically in South Asia and Latin America.
+Hi, I am Marco. I am a Sociology and Demography PhD candidate at Penn State University.  I am interested in gender, health, work, time use, and development. My research focuses mainly on how different gender norms across contexts affect the way women's bargaining power influences different dimensions of wellbeing: health, income, employment, time use, among other variables. My work is situated geographically in South Asia and Latin America. You 
