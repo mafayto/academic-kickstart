@@ -71,4 +71,8 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am Marco. I am a Sociology and Demography PhD candidate at Penn State University.  I am interested in gender, health, work, time use, and development. My research focuses mainly on how different gender norms across contexts affect the way women's bargaining power influences different dimensions of wellbeing: health, income, employment, time use, among other variables. My work is situated geographically in South Asia and Latin America. You 
+Hi, I am Marco. I am a Sociology and Demography PhD candidate at Penn State University.  I am interested in gender, health, work, time use, and development. My research focuses mainly on how different gender norms across contexts affect the way women's bargaining power influences different dimensions of wellbeing: health, income, employment, time use, among other variables. My work is situated geographically in South Asia and Latin America. 
+
+If you want to get in touch my email is **marco.faytong@psu.edu**
+
+You can check out my CV [here](files/cv.pdf). 
