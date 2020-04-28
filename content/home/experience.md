@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,53 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "The Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "University Park, Pennsylvania"
+  date_start = "2017-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  &nbsp;
+  * Data collection for an activity-space research in Tamil Nadu, India
+  * Data cleaning and quantitative analysis using the South India Community Health
+Study (SICHS) to assess environmental outcomes to differences in children’s
+early development
+  * Coding and data cleaning for the time use component of the SICHS study
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Policy and Data Analyst (Intern)"
+  company = "International Labour Organization"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Geneva, Switzerland"
+  date_start = "2017-04-01"
+  date_end = "2017-08-01"
+  description = """
+  
+  &nbsp;
+  * Data analysis and report writing for projects about labor market dynamics and
+propensity to be an entrepreneur in Costa Rica, Mexico, and Uruguay
+  * Dissemination of reports with policy makers of the aforementioned countries
+  """
 
+[[experience]]
+  title = "Quantitative Analyst"
+  company = "Universidad Espíritu Santo"
+  company_url = "https://www.uees.edu.ec/"
+  location = "Guayaquil, Ecuador"
+  date_start = "2012-06-01"
+  date_end = "2015-08-01"
+  description = """
+  Data collection (survey) supervising and results writing for the following projects:
+  
+  * Conceptual development of a tourism observatory for sustainability and
+competitiveness of tourism in the Guayas province in Ecuador (in association with
+the local government of Guayaquil)
+  * Determinants for the implementation of mediation and arbitration as alternative
+dispute resolutions mechanisms in Guayaquil
+  * Psychological, demographic, social, and economic profile of teenagers aged 12 to
+18 years who live in the city of Guayaquil (in association with UNICEF)
+  """
 +++
