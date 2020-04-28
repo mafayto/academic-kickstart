@@ -22,7 +22,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Gender
-- Health
+- Health/Wellbeing
+- Time use
 - Work
 - Development
 
