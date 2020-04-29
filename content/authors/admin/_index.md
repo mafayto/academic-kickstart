@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Sociology ande Demograpgy
+  - course: PhD in Sociology and Demograpgy
     institution: The Pennsylvania State University
     year: 2021 (expected)
   - course: MA in Applied Quantitative Research
