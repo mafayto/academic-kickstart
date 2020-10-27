@@ -15,7 +15,7 @@ role: PhD candidate in Sociology and Demography
 # Organizations/Affiliations
 organizations:
 - name: The Pennsylvania State University
-  url: ""
+  url: "https://sociology.la.psu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv.docs
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ Hi, I am Marco. I am a Sociology and Demography PhD candidate at Penn State Univ
 
 If you want to get in touch my email is **marco.faytong@psu.edu**
 
-You can check out my CV [here](files/cv.pdf). 
+You can check out my CV [here](files/cv.docx). 
